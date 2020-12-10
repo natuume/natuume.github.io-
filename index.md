@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#About
 
-You can use the [editor on GitHub](https://github.com/natuume/natuume.github.io-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+プログラミングを2020年5月から始めた夏梅です。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+特にスキルが無いことがコンプレックスだったので、何か学べないかなと探していた時にN予備校をみつけたのでプログラミングをはじめてみました。  
 
-### Markdown
+特技としてプログラミング勉強にに役にたったなって思えているのが、ブラインドタッチでタイピング速度が少し速めなところです。  
+（e-typingで3回試してみたところ「A+～Good」でした。昔はもう少し上出てたので速くなりたい！）  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+あと、最近はまっているのはVRです。（まだ、HMDはもっていないので、いつか欲しい…）  
+現在、アバターや小物、ワールドを作ろうとしてUnityとBlenderと和解できずに泣くことが多いです。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natuume/natuume.github.io-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Profile
+- 夏梅（natuume)  
+- Japan  
+- まだまだ修行中！　ＨＰやWｅｂアプリケーションをすいすいと作れるようになりたいです。もっと出来るようになったら他の言語もチャレンジしてみたいです。  
+　

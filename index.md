@@ -1,6 +1,6 @@
 ![梅とメジロ](uguisu.png)
 
-<a class="twitter-timeline" data-width="400" data-height="300" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="300" data-height="300" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://www.openprocessing.org/sketch/1042454/embed/" width="400" height="300"></iframe>
 

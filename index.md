@@ -1,24 +1,29 @@
 ![梅とメジロ](uguisu.png)
 
-<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="300" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://www.openprocessing.org/sketch/1042454/embed/" width="400" height="300"></iframe>
 
 プログラミングを2020年5月から始めた夏梅です。  
 
-特にスキルが無いことがコンプレックスだったので、何か学べないかなと探していた時にN予備校をみつけたのでプログラミングをはじめてみました。  
+これからはみんなプログラミングができるらしい！（小学校から教育始まったので負けたくない！）
+
+あと、自分に何かもっとスキルを！そしていろいろ出来ること増やしたい！
+
+と思っていたのでプログラミングを学べるところはどこだろう？と探していた時にN予備校と出会いプログラミングをはじめてみました。 
+
 
 特技としてプログラミング勉強にに役にたったなって思えているのが、ブラインドタッチでタイピング速度が少し速めなところです。  
 （e-typingで3回試してみたところ「A+～Good」でした。昔はもう少し上のランクが出ていたので速くなりたい！）  
 
 あと、最近はまっているのはVRです。（まだ、HMDはもっていないので、いつか欲しい…）  
-現在、アバターや小物、ワールドを作ろうとしてUnityとBlenderと和解できずに泣くことが多いです。
+現在、アバターや小物、ワールドを作ろうとしてUnityとBlenderと和解できず泣いていることが多いです。
 
 
 ## Profile
 - 夏梅（natuume)  
 - Japan  
-- まだまだ修行中！　ＨＰやWｅｂアプリケーションをすいすいと作れるようになりたいです。もっと出来るようになったら他の言語もチャレンジしてみたいです。 
+- まだまだ修行中！　ＨＰやWｅｂアプリケーションをスイスイと作れるようになりたいです。もっと出来るようになったら他の言語もチャレンジしてみたいです。 
 
 # Skills
 使ったことや興味のある言語、ツール、OSなど。修行中です。

@@ -1,5 +1,6 @@
 ![梅とメジロ](uguisu.png)
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 プログラミングを2020年5月から始めた夏梅です。  
 
@@ -30,5 +31,3 @@
 # Contact
 - [Twitter]@natuume202005 
 - [Mail]natuume2020to05@gmail.com
-
-<a class="twitter-timeline" href="https://twitter.com/natuume202005?ref_src=twsrc%5Etfw">Tweets by natuume202005</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -33,8 +33,8 @@
 - Tool,MiddleWare（Git, PostgreSQL）
 
 # Works
-- [GitHub]https://github.com/natuume
+- [GitHub](https://github.com/natuume)
 
 # Contact
-- [Twitter]@natuume202005 
-- [Mail]natuume2020to05@gmail.com
+- [Twitter](@natuume202005) 
+- [Mail](natuume2020to05@gmail.com)
